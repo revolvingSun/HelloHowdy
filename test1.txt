@@ -1,0 +1,10 @@
+ Volume in drive D is 2TB 
+ Volume Serial Number is 5E1D-AF63
+
+ Directory of D:\MOBILE_APP_LEARN\GIT_TRIP\HelloHowdy
+
+08/02/2021  04:59 PM    <DIR>          .
+08/02/2021  04:59 PM    <DIR>          ..
+08/02/2021  04:59 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  127,279,390,720 bytes free
